@@ -1,0 +1,186 @@
+{
+    "start_date": "Nov-08-2023 01:26:35 AM +UTC",
+    "end_date": "now",
+    "wallet_address": "0xc5F69c697633a095D8E994F8921836720a6dca87",
+    "masterchef_address": "0x20ec0d06F447d550fC6edee42121bc8C1817b97D",
+    "awMATIC-USDC": {
+        "contract": "0x04d521E2c414E6d898c6F2599FdD863Edf49e247",
+        "token0": {
+            "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC",
+            "fees_raw": 1.1656608929202644e+21,
+            "fees_normalised": "1165.660892920264359418",
+            "fees_usd": 943.2935926823302
+        },
+        "token1": {
+            "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "name": "USD Coin (PoS)",
+            "symbol": "USDC",
+            "fees_raw": 989292608.4733293,
+            "fees_normalised": "989.292608",
+            "fees_usd": 990.2819006079999
+        },
+        "total_fees_usd": 1933.57549329033,
+        "total_lp_value_usd": 19302.268474548007,
+        "total_lp_tokens": 18976095268,
+        "total_lp_tokens_normalized": "0.000000018976095268",
+        "lp_tokens_for_fees": 1900901586.6155386,
+        "lp_tokens_for_fees_normalized": "0.000000001900901587"
+    },
+    "aUSDC-WETH": {
+        "contract": "0x3Cc20A6795c4b57d9817399F68E83e71C8626580",
+        "token0": {
+            "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "name": "USD Coin (PoS)",
+            "symbol": "USDC",
+            "fees_raw": 675428918.384804,
+            "fees_normalised": "675.428918",
+            "fees_usd": 676.1043469179999
+        },
+        "token1": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "fees_raw": 3.1653157843669254e+17,
+            "fees_normalised": "0.316531578436692551",
+            "fees_usd": 717.3681774742139
+        },
+        "total_fees_usd": 1393.472524392214,
+        "total_lp_value_usd": 34429.6982475951,
+        "total_lp_tokens": 9627270925584553666,
+        "total_lp_tokens_normalized": "9.627270925584554107",
+        "lp_tokens_for_fees": 3.896443536393505e+17,
+        "lp_tokens_for_fees_normalized": "0.389644353639350516"
+    },
+    "aWBTC-USDC": {
+        "contract": "0x3f35705479d9d77c619b2aAC9dd7a64e57151506",
+        "token0": {
+            "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+            "name": "(PoS) Wrapped BTC",
+            "symbol": "WBTC",
+            "fees_raw": 1209597.3020972372,
+            "fees_normalised": "0.01209597",
+            "fees_usd": 546.2419092299999
+        },
+        "token1": {
+            "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "name": "USD Coin (PoS)",
+            "symbol": "USDC",
+            "fees_raw": 481599980.64954764,
+            "fees_normalised": "481.599981",
+            "fees_usd": 482.08158098099995
+        },
+        "total_fees_usd": 1028.3234902109998,
+        "total_lp_value_usd": 21329.006314397557,
+        "total_lp_tokens": 16755606917,
+        "total_lp_tokens_normalized": "0.000000016755606917",
+        "lp_tokens_for_fees": 807828734.7996259,
+        "lp_tokens_for_fees_normalized": "0.000000000807828735"
+    },
+    "aWBTC-WETH": {
+        "contract": "0x4B9e26a02121a1C541403a611b542965Bd4b68Ce",
+        "token0": {
+            "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+            "name": "(PoS) Wrapped BTC",
+            "symbol": "WBTC",
+            "fees_raw": 403770.5374160702,
+            "fees_normalised": "0.00403771",
+            "fees_usd": 182.33894589
+        },
+        "token1": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "fees_raw": 7.492429819205253e+16,
+            "fees_normalised": "0.074924298192052527",
+            "fees_usd": 169.80393396457634
+        },
+        "total_fees_usd": 352.14287985457634,
+        "total_lp_value_usd": 19879.67093763544,
+        "total_lp_tokens": 5372455225002217025,
+        "total_lp_tokens_normalized": "5.372455225002217283",
+        "lp_tokens_for_fees": 9.516615545383232e+16,
+        "lp_tokens_for_fees_normalized": "0.095166155453832321"
+    },
+    "aWETH-QUICK": {
+        "contract": "0xf86d6151D03007b1906465b63e36d6F48136bc39",
+        "token0": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "fees_raw": 1.5609810458317918e+16,
+            "fees_normalised": "0.015609810458317918",
+            "fees_usd": 35.37713783410423
+        },
+        "token1": {
+            "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+            "name": "QuickSwap",
+            "symbol": "QUICK",
+            "fees_raw": 6.149831443318962e+20,
+            "fees_normalised": "614.983144331896141921",
+            "fees_usd": 31.34261595087509
+        },
+        "total_fees_usd": 66.71975378497932,
+        "total_lp_value_usd": 2378.8470454188887,
+        "total_lp_tokens": 14780170963611517052793,
+        "total_lp_tokens_normalized": "14,780.170963611517436220",
+        "lp_tokens_for_fees": 4.14540888406894e+20,
+        "lp_tokens_for_fees_normalized": "414.540888406893998308"
+    },
+    "aDAI-GNS": {
+        "contract": "0x7aE7FB44c92B4d41abB6E28494f46a2EB3c2a690",
+        "token0": {
+            "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+            "name": "(PoS) Dai Stablecoin",
+            "symbol": "DAI",
+            "fees_raw": 3.1273049524465166e+20,
+            "fees_normalised": "312.730495244651649500",
+            "fees_usd": 313.355956235141
+        },
+        "token1": {
+            "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+            "name": "Gains Network",
+            "symbol": "GNS",
+            "fees_raw": 7.236125018790838e+19,
+            "fees_normalised": "72.361250187908382259",
+            "fees_usd": 363.25347594330003
+        },
+        "total_fees_usd": 676.609432178441,
+        "total_lp_value_usd": 8364.562025582487,
+        "total_lp_tokens": 1728894381373984927482,
+        "total_lp_tokens_normalized": "1,728.894381373984970196",
+        "lp_tokens_for_fees": 1.3985026856160924e+20,
+        "lp_tokens_for_fees_normalized": "139.850268561609254903"
+    },
+    "aLINK-WETH": {
+        "contract": "0x3dA7e0320C04D88b71e0ada960AaD3d21f10CAdf",
+        "token0": {
+            "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "fees_raw": 4.559959444274739e+19,
+            "fees_normalised": "45.599594442747388712",
+            "fees_usd": 619.2424925325096
+        },
+        "token1": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "fees_raw": 3.099055949155349e+17,
+            "fees_normalised": "0.309905594915534932",
+            "fees_usd": 702.3514459808735
+        },
+        "total_fees_usd": 1321.593938513383,
+        "total_lp_value_usd": 9130.951577306787,
+        "total_lp_tokens": 4173978859360155270,
+        "total_lp_tokens_normalized": "4.173978859360155447",
+        "lp_tokens_for_fees": 6.041325609176479e+17,
+        "lp_tokens_for_fees_normalized": "0.604132560917647887"
+    },
+    "TOTAL": {
+        "total_fees_usd_all_pairs": 6772.437512224924,
+        "total_lp_value_usd_all_pairs": 114815.00462248428
+		"NOTE": "The automated calculation for total tokens owed / LP is off by around 10-30% in our report output, due to us reading in the poolTVL (including Gamma Strategies' fees) rather than the user TVL. This oversight has been corrected in our latest codebase, and pushed to github. A second rewards report is available using the correct TVL calculation (under secondary_report.json) - but as this took place after LP was withdrawn for rewards, the numbers are under-shot rather than over-shot. Reports moving forward will reflect the correct TVL & Rewards data as normal."
+    }
+}
