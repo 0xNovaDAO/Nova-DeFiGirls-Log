@@ -1,0 +1,160 @@
+{
+    "start_date": "Feb-02-2024 10:59:37 PM +UTC",
+    "end_date": "now",
+    "wallet_address": "0x2357c0466588Cf2F8d87cc654F763023880c3474",
+    "masterchef_address": "0x20ec0d06F447d550fC6edee42121bc8C1817b97D",
+    "awMATIC-USDC": {
+        "contract": "0xAE81FAc689A1b4b1e06e7ef4a2ab4CD8aC0A087D",
+        "token0": {
+            "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC",
+            "fees_raw": 6.024972956679963e+20,
+            "fees_normalised": "602.497295667996240809",
+            "fees_usd": 644.069609069088
+        },
+        "token1": {
+            "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "name": "USD Coin (PoS)",
+            "symbol": "USDC",
+            "fees_raw": 560874500.0415107,
+            "fees_normalised": "560.874500",
+            "fees_usd": 560.8739391255
+        },
+        "total_fees_usd": 1204.943548194588,
+        "total_lp_value_usd": 16684.590398931658,
+        "total_lp_tokens": 33295707866,
+        "total_lp_tokens_normalized": "0.000000033295707866",
+        "lp_tokens_for_fees": 2404580958.6237974,
+        "lp_tokens_for_fees_normalized": "0.000000002404580959"
+    },
+    "awMATIC-WETH": {
+        "contract": "0x479e1B71A702a595e19b6d5932CD5c863ab57ee0",
+        "token0": {
+            "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC",
+            "fees_raw": 7.750573024988041e+20,
+            "fees_normalised": "775.057302498804119750",
+            "fees_usd": 828.5362563712216
+        },
+        "token1": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "fees_raw": 2.5573340151197126e+17,
+            "fees_normalised": "0.255733401511971270",
+            "fees_usd": 873.6185449070905
+        },
+        "total_fees_usd": 1702.154801278312,
+        "total_lp_value_usd": 19553.972274267566,
+        "total_lp_tokens": 15819692616443714754,
+        "total_lp_tokens_normalized": "15.819692616443715494",
+        "lp_tokens_for_fees": 1.3770892872371817e+18,
+        "lp_tokens_for_fees_normalized": "1.377089287237181603"
+    },
+    "aLINK-WETH": {
+        "contract": "0xAb52931301078E2405c3a3EBB86e11ad0dFD2CfD",
+        "token0": {
+            "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "fees_raw": 4.9068625859782844e+19,
+            "fees_normalised": "49.068625859782841303",
+            "fees_usd": 1019.6460453662875
+        },
+        "token1": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "fees_raw": 3.3694658965566163e+17,
+            "fees_normalised": "0.336946589655661655",
+            "fees_usd": 1151.0533533203954
+        },
+        "total_fees_usd": 2170.699398686683,
+        "total_lp_value_usd": 40598.76142493745,
+        "total_lp_tokens": 14898388920143348124,
+        "total_lp_tokens_normalized": "14.898388920143348813",
+        "lp_tokens_for_fees": 7.965741499318492e+17,
+        "lp_tokens_for_fees_normalized": "0.796574149931849163"
+    },
+    "aUSDC-WETH": {
+        "contract": "0xa6AeDF7c4Ed6e821E67a6BfD56FD1702aD9a9719",
+        "token0": {
+            "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "fees_raw": 461960345.84913445,
+            "fees_normalised": "461.960346",
+            "fees_usd": 461.959884039654
+        },
+        "token1": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "fees_raw": 1.6276382172476182e+17,
+            "fees_normalised": "0.162763821724761837",
+            "fees_usd": 556.0223743086107
+        },
+        "total_fees_usd": 1017.9822583482646,
+        "total_lp_value_usd": 5202.2300849546755,
+        "total_lp_tokens": 2212934839735278651,
+        "total_lp_tokens_normalized": "2.212934839735278825",
+        "lp_tokens_for_fees": 4.3303129022423866e+17,
+        "lp_tokens_for_fees_normalized": "0.433031290224238641"
+    },
+    "aDAI-GNS": {
+        "contract": "0xa56796f13566c515471A2fBBAB731F88cE5DE428",
+        "token0": {
+            "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+            "name": "(PoS) Dai Stablecoin",
+            "symbol": "DAI",
+            "fees_raw": 1.1700254594024699e+20,
+            "fees_normalised": "117.002545940246989176",
+            "fees_usd": 116.76233971343167
+        },
+        "token1": {
+            "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+            "name": "Gains Network",
+            "symbol": "GNS",
+            "fees_raw": 1.7462629534785573e+19,
+            "fees_normalised": "17.462629534785573782",
+            "fees_usd": 114.20559715749765
+        },
+        "total_fees_usd": 230.96793687092932,
+        "total_lp_value_usd": 12696.057127415334,
+        "total_lp_tokens": 2383482966932181404407,
+        "total_lp_tokens_normalized": "2,383.482966932181625452",
+        "lp_tokens_for_fees": 4.336055973240567e+19,
+        "lp_tokens_for_fees_normalized": "43.360559732405675959"
+    },
+    "aWETH-QUICK": {
+        "contract": "0xDE2D1fd2E8238aBA80a5B80c7262E4833D92f624",
+        "token0": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "fees_raw": 3.181313864748972e+16,
+            "fees_normalised": "0.031813138647489719",
+            "fees_usd": 108.67781732784906
+        },
+        "token1": {
+            "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+            "name": "QuickSwap",
+            "symbol": "QUICK",
+            "fees_raw": 1.468999582469407e+21,
+            "fees_normalised": "1468.999582469407187091",
+            "fees_usd": 97.5327582784738
+        },
+        "total_fees_usd": 206.21057560632286,
+        "total_lp_value_usd": 7570.918755630337,
+        "total_lp_tokens": 58646417672096521020441,
+        "total_lp_tokens_normalized": "58,646.417672096518799663",
+        "lp_tokens_for_fees": 1.5973637989997124e+21,
+        "lp_tokens_for_fees_normalized": "1,597.363798999712344084"
+    },
+    "TOTAL": {
+        "total_fees_usd_all_pairs": 6532.9585189850995,
+        "total_lp_value_usd_all_pairs": 102306.53006613703
+    }
+}
