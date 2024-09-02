@@ -1,0 +1,88 @@
+{
+    "start_date": "Aug-01-2024 09:45:00 AM +UTC",
+    "end_date": "now",
+    "wallet_address": "0x2357c0466588Cf2F8d87cc654F763023880c3474",
+    "masterchef_address": "0x20ec0d06F447d550fC6edee42121bc8C1817b97D",
+    "awMATIC-USDC": {
+        "hypervisor_address": "0x04d521e2c414e6d898c6f2599fdd863edf49e247",
+        "contract": "0xAE81FAc689A1b4b1e06e7ef4a2ab4CD8aC0A087D",
+        "token0": {
+            "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC",
+            "fees_raw": 8.349610076132016e+20,
+            "fees_normalised": "834.961007613201559252",
+            "fees_usd": 339.7756925940858
+        },
+        "token1": {
+            "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "name": "USD Coin (PoS)",
+            "symbol": "USDC",
+            "fees_raw": 368493858.3261882,
+            "fees_normalised": "368.493858",
+            "fees_usd": 368.493858
+        },
+        "total_fees_usd": 708.2695505940858,
+        "total_lp_value_usd": 2755.6158349138436,
+        "total_lp_tokens": 16125888420,
+        "total_lp_tokens_normalized": "0.000000016125888420",
+        "lp_tokens_for_fees": 4144799721.155933,
+        "lp_tokens_for_fees_normalized": "0.000000004144799721"
+    },
+    "awMATIC-WETH": {
+        "hypervisor_address": "0x02203f2351e7ac6ab5051205172d3f772db7d814",
+        "contract": "0x479e1B71A702a595e19b6d5932CD5c863ab57ee0",
+        "token0": {
+            "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC",
+            "fees_raw": 6.269039690085515e+20,
+            "fees_normalised": "626.903969008551484876",
+            "fees_usd": 255.10979353246393
+        },
+        "token1": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "fees_raw": 1.0541087411977147e+17,
+            "fees_normalised": "0.105410874119771472",
+            "fees_usd": 266.35746726954454
+        },
+        "total_fees_usd": 521.4672608020085,
+        "total_lp_value_usd": 9192.139740552953,
+        "total_lp_tokens": 19354097504391709620,
+        "total_lp_tokens_normalized": "19.354097504391710061",
+        "lp_tokens_for_fees": 1.0979519998357876e+18,
+        "lp_tokens_for_fees_normalized": "1.097951999835787618"
+    },
+    "aLINK-WETH": {
+        "hypervisor_address": "0x3da7e0320c04d88b71e0ada960aad3d21f10cadf",
+        "contract": "0xAb52931301078E2405c3a3EBB86e11ad0dFD2CfD",
+        "token0": {
+            "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "fees_raw": 8.591836401349937e+19,
+            "fees_normalised": "85.918364013499370913",
+            "fees_usd": 915.8897603839033
+        },
+        "token1": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "fees_raw": 3.4595599732371046e+17,
+            "fees_normalised": "0.345955997323710462",
+            "fees_usd": 874.1789118374178
+        },
+        "total_fees_usd": 1790.068672221321,
+        "total_lp_value_usd": 11637.479269676563,
+        "total_lp_tokens": 9692755234189500524,
+        "total_lp_tokens_normalized": "9.692755234189499802",
+        "lp_tokens_for_fees": 1.4909326229643272e+18,
+        "lp_tokens_for_fees_normalized": "1.490932622964327159"
+    },
+    "TOTAL": {
+        "total_fees_usd_all_pairs": 3019.805483617415,
+        "total_lp_value_usd_all_pairs": 23585.23484514336
+    }
+}
